@@ -1,0 +1,1 @@
+Student{name=Osego, surname=Mere, studentNo=222810000, listOfSubjects=[Mathematics, Physical Sciences, Life Sciences]}
